@@ -11,6 +11,7 @@ class Main
     // System.out.println("Today's lucky number is " + num1);
     Apple yuckyApple = new Apple();
     System.out.println(yuckyApple.toString());
+    System.out.println("testing VCS");
 
   }//end main method
 }//close the Main class
